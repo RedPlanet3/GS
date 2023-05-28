@@ -1,0 +1,12 @@
+com\gridnine\testing\FiltrType.class
+com\gridnine\testing\FiltrationImpl.class
+com\gridnine\testing\RuleDepartureBeforeCurrentTime.class
+com\gridnine\testing\RuleIntervalMoreThanTwoHours.class
+com\gridnine\testing\Segment.class
+com\gridnine\testing\Filtration.class
+com\gridnine\testing\RuleArrivalDateBeforeDepartureDate.class
+com\gridnine\testing\Flight.class
+com\gridnine\testing\Main.class
+com\gridnine\testing\FlightBuilder.class
+com\gridnine\testing\FiltrationImpl$1.class
+com\gridnine\testing\Rule.class
