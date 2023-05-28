@@ -8,7 +8,6 @@ public class Main {
     {
         int i = 1;
         for (Flight flight: flights)
-//            System.out.println(i++ + " : " +flight);
         System.out.println(flight);
     }
     public static void main(String[] args) {
