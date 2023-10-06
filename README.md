@@ -1,2 +1,2 @@
-# Gridnine-Systems
+# GS
 тестовое задание
